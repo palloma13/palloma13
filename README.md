@@ -5,4 +5,4 @@ Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 Você pode entrar em contato comigo 📫
-palloma.mnleao13@gmail.com
+palloma.mleao13@gmail.com
